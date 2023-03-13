@@ -1,0 +1,40 @@
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/RequestSender.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RequestSender.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RequestSender.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RequestSender.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RequestSender.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/IRequestSender.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/IRequestSender.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/IRequestSender.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/IRequestSender.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/IRequestSender.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Extensions/UITableView+Extenstion.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UITableView+Extenstion.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UITableView+Extenstion.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UITableView+Extenstion.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UITableView+Extenstion.d"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Helper/NetworkError.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NetworkError.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NetworkError.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NetworkError.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NetworkError.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Modules/PushNotification/PushNotificationViewController.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PushNotificationViewController.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PushNotificationViewController.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PushNotificationViewController.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PushNotificationViewController.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Extensions/UIViewController+Extension.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UIViewController+Extension.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UIViewController+Extension.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UIViewController+Extension.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UIViewController+Extension.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Parser/SucceedParser.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SucceedParser.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SucceedParser.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SucceedParser.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SucceedParser.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Modules/LounchScreen/LaunchScreenViewController.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/LaunchScreenViewController.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/LaunchScreenViewController.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/LaunchScreenViewController.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/LaunchScreenViewController.swiftdeps"

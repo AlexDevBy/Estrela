@@ -1,0 +1,20 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationPacman.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationPacman.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationPacman.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationPacman.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationPacman.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationOrbit.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationOrbit.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationOrbit.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationOrbit.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationOrbit.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationSemiCircleSpin.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationSemiCircleSpin.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationSemiCircleSpin.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationSemiCircleSpin.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationSemiCircleSpin.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationLineSpinFadeLoader.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationLineSpinFadeLoader.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationLineSpinFadeLoader.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationLineSpinFadeLoader.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationLineSpinFadeLoader.o"

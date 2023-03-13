@@ -1,0 +1,35 @@
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/AppleApiEndPoint.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/AppleApiEndPoint.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/AppleApiEndPoint.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/AppleApiEndPoint.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/AppleApiEndPoint.d"
+"/Users/codergirltm/Desktop/Estrela/Estrela/App/AppDelegate.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/AppDelegate.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/AppDelegate.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/AppDelegate.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Extensions/UIView+Extension.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/UIView+Extension.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/UIView+Extension.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/UIView+Extension.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/UIView+Extension.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/App/SceneDelegate.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/SceneDelegate.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/SceneDelegate.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/SceneDelegate.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/SceneDelegate.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/UserDefaultsStorage.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/UserDefaultsStorage.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/UserDefaultsStorage.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/UserDefaultsStorage.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/UserDefaultsStorage.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Helper/Constraints.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/Constraints.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/Constraints.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/Constraints.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/Constraints.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Modules/Result/ResultViewController.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/ResultViewController.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/ResultViewController.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/ResultViewController.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/ResultViewController.swiftdeps"

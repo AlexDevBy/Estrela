@@ -1,0 +1,25 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallPulseRise.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallPulseRise.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallPulseRise.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallPulseRise.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallPulseRise.dia"
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallGridBeat.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallGridBeat.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallGridBeat.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallGridBeat.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallGridBeat.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallDoubleBounce.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallDoubleBounce.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallDoubleBounce.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallDoubleBounce.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallDoubleBounce.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallPulse.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallPulse.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallPulse.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallPulse.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallPulse.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallGridPulse.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallGridPulse.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallGridPulse.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallGridPulse.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/NVActivityIndicatorView.build/Objects-normal/x86_64/NVActivityIndicatorAnimationBallGridPulse.swiftdeps"

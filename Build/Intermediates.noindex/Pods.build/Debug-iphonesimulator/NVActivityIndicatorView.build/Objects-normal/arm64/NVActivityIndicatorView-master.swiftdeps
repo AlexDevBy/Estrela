@@ -1,0 +1,73 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "fd965649f070a78974d16b435f2b7c65fea6ab6d27839a337ac6f65eff9a7276"
+build_start_time: [1673349646, 82362174]
+build_end_time: [1673349646, 560233116]
+inputs:
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationAudioEqualizer.swift"
+  : [1673271704, 536654472]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallBeat.swift"
+  : [1673271704, 535567522]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallClipRotate.swift"
+  : [1673271704, 534436702]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallClipRotateMultiple.swift"
+  : [1673271704, 534539222]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallClipRotatePulse.swift"
+  : [1673271704, 535916805]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallDoubleBounce.swift"
+  : [1673271704, 534775733]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallGridBeat.swift"
+  : [1673271704, 536884546]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallGridPulse.swift"
+  : [1673271704, 534332752]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallPulse.swift"
+  : [1673271704, 536313056]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallPulseRise.swift"
+  : [1673271704, 537996292]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallPulseSync.swift"
+  : [1673271704, 537412166]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallRotate.swift"
+  : [1673271704, 534232616]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallRotateChase.swift"
+  : [1673271704, 536168575]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallScale.swift"
+  : [1673271704, 535295009]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallScaleMultiple.swift"
+  : [1673271704, 536999702]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallScaleRipple.swift"
+  : [1673271704, 535809040]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallScaleRippleMultiple.swift"
+  : [1673271704, 537211418]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallSpinFadeLoader.swift"
+  : [1673271704, 537626266]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallTrianglePath.swift"
+  : [1673271704, 534658432]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallZigZag.swift"
+  : [1673271704, 535416603]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBallZigZagDeflect.swift"
+  : [1673271704, 535162925]
+  "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationBlank.swift": [1673271704, 536414623]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationCircleStrokeSpin.swift"
+  : [1673271704, 536520957]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationCubeTransition.swift"
+  : [1673271704, 537526369]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationLineScale.swift"
+  : [1673271704, 537100553]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationLineScaleParty.swift"
+  : [1673271704, 537752866]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationLineScalePulseOut.swift"
+  : [1673271704, 534914731]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationLineScalePulseOutRapid.swift"
+  : [1673271704, 537876605]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationLineSpinFadeLoader.swift"
+  : [1673271704, 535039424]
+  "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationOrbit.swift": [1673271704, 538100719]
+  "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationPacman.swift": [1673271704, 537311077]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationSemiCircleSpin.swift"
+  : [1673271704, 535688400]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationSquareSpin.swift"
+  : [1673271704, 536036014]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/Animations/NVActivityIndicatorAnimationTriangleSkewSpin.swift"
+  : [1673271704, 536767959]
+  "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/NVActivityIndicatorAnimationDelegate.swift": [1673271704, 533714294]
+  "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/NVActivityIndicatorShape.swift": [1673271704, 533826828]
+  "/Users/codergirltm/Desktop/Estrela/Pods/NVActivityIndicatorView/Sources/Base/NVActivityIndicatorView.swift": [1673271704, 533946514]

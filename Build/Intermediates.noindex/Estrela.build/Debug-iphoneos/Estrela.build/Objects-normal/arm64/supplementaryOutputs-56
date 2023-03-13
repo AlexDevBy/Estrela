@@ -1,0 +1,35 @@
+"/Users/codergirltm/Desktop/Estrela/Estrela/Model/Questions.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/Questions.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/Questions.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/Questions.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/Questions.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Parser/DeleteParser.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/DeleteParser.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/DeleteParser.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/DeleteParser.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/DeleteParser.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Parser/LinkParser.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/LinkParser.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/LinkParser.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/LinkParser.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/LinkParser.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Modules/SignIn/SignInViewController.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SignInViewController.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SignInViewController.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SignInViewController.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SignInViewController.d"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Parser/CountryParser.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/CountryParser.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/CountryParser.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/CountryParser.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/CountryParser.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Extensions/String+Extension.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/String+Extension.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/String+Extension.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/String+Extension.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/String+Extension.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/INetworkService.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/INetworkService.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/INetworkService.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/INetworkService.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/INetworkService.dia"

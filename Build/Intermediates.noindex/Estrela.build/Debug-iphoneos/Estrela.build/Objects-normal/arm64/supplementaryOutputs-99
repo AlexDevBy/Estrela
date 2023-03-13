@@ -1,0 +1,40 @@
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/NacionalJSONEndPoint.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NacionalJSONEndPoint.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NacionalJSONEndPoint.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NacionalJSONEndPoint.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NacionalJSONEndPoint.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Model/PermissionsModel.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PermissionsModel.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PermissionsModel.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PermissionsModel.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PermissionsModel.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/AppWayByCountry.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppWayByCountry.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppWayByCountry.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppWayByCountry.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppWayByCountry.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/AppInfoService.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppInfoService.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppInfoService.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppInfoService.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppInfoService.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Parser/AppleRevokeTokenParser.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppleRevokeTokenParser.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppleRevokeTokenParser.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppleRevokeTokenParser.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/AppleRevokeTokenParser.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Modules/PresentationAssembly.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PresentationAssembly.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PresentationAssembly.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PresentationAssembly.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PresentationAssembly.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Purchase/Purchases.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/Purchases.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/Purchases.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/Purchases.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/Purchases.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/SecureStorage.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SecureStorage.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SecureStorage.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SecureStorage.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/SecureStorage.d"

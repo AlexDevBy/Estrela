@@ -1,0 +1,20 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudUtils.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUtils.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUtils.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUtils.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUtils.dia"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudUser.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUser.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUser.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUser.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUser.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudUserPropertyKey.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUserPropertyKey.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUserPropertyKey.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUserPropertyKey.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUserPropertyKey.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudUserProperty.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUserProperty.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUserProperty.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUserProperty.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudUserProperty.o"

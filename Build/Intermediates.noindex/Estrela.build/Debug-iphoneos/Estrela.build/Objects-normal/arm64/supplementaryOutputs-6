@@ -1,0 +1,35 @@
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/NacionalApiEndPoint.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NacionalApiEndPoint.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NacionalApiEndPoint.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NacionalApiEndPoint.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/NacionalApiEndPoint.d"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Modules/MainPage/MainViewCell/MainViewCell.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/MainViewCell.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/MainViewCell.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/MainViewCell.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/MainViewCell.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/CustomClass/RandomNumber.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RandomNumber.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RandomNumber.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RandomNumber.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RandomNumber.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/PurchasesError.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PurchasesError.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PurchasesError.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PurchasesError.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/PurchasesError.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Extensions/UIColor+Extension.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UIColor+Extension.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UIColor+Extension.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UIColor+Extension.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/UIColor+Extension.d"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/DatabaseService.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/DatabaseService.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/DatabaseService.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/DatabaseService.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/DatabaseService.o"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Manager/RealmManager.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RealmManager.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RealmManager.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RealmManager.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphoneos/Estrela.build/Objects-normal/arm64/RealmManager.d"

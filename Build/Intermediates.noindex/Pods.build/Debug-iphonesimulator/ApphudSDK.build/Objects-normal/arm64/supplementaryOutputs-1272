@@ -1,0 +1,20 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudSubscription.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudSubscription.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudSubscription.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudSubscription.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudSubscription.dia"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudStoreKitWrapper.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudStoreKitWrapper.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudStoreKitWrapper.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudStoreKitWrapper.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudStoreKitWrapper.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudUI/ApphudScreenController+Macros.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudScreenController+Macros.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudScreenController+Macros.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudScreenController+Macros.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudScreenController+Macros.dia"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudUI/ApphudUIDelegate.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudUIDelegate.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudUIDelegate.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudUIDelegate.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/ApphudSDK.build/Objects-normal/arm64/ApphudUIDelegate.d"

@@ -1,0 +1,25 @@
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerPrioritizable.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerPrioritizable.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerPrioritizable.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerPrioritizable.swiftdeps"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerRelatable.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerRelatable.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerRelatable.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerRelatable.d"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerRelatable+Extensions.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerRelatable+Extensions.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerRelatable+Extensions.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMakerRelatable+Extensions.dia"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintOffsetTarget.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintOffsetTarget.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintOffsetTarget.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintOffsetTarget.d"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMultiplierTarget.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMultiplierTarget.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMultiplierTarget.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/x86_64/ConstraintMultiplierTarget.swiftdeps"

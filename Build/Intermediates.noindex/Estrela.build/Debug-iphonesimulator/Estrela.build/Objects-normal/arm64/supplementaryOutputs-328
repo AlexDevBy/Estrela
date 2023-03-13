@@ -1,0 +1,25 @@
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/INetworkService.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/INetworkService.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/INetworkService.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/INetworkService.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/INetworkService.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Extensions/String+Extension.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/String+Extension.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/String+Extension.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/String+Extension.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/String+Extension.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Modules/SignIn/SignInViewController.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/SignInViewController.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/SignInViewController.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/SignInViewController.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/SignInViewController.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Model/Questions.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/Questions.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/Questions.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/Questions.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/Questions.dia"
+"/Users/codergirltm/Desktop/Estrela/Estrela/Resources/Parser/CountryParser.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/CountryParser.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/CountryParser.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/CountryParser.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Estrela.build/Debug-iphonesimulator/Estrela.build/Objects-normal/arm64/CountryParser.d"

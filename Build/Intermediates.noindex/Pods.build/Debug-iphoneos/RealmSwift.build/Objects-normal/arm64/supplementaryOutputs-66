@@ -1,0 +1,35 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Impl/ComplexTypes.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ComplexTypes.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ComplexTypes.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ComplexTypes.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ComplexTypes.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Events.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Events.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Events.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Events.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Events.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/EmbeddedObject.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/CustomPersistable.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/CustomPersistable.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/CustomPersistable.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/CustomPersistable.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/CustomPersistable.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Combine.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Combine.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Combine.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Combine.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Combine.dia"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Error.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Error.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Error.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Error.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Error.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Decimal128.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Decimal128.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Decimal128.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Decimal128.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Decimal128.dia"

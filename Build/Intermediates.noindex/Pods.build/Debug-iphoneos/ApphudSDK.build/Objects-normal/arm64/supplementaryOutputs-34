@@ -1,0 +1,20 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudHttpClient.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudHttpClient.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudHttpClient.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudHttpClient.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudHttpClient.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudInternal+Attribution.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal+Attribution.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal+Attribution.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal+Attribution.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal+Attribution.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudInternal+Eligibility.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal+Eligibility.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal+Eligibility.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal+Eligibility.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal+Eligibility.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudInternal.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudInternal.o"

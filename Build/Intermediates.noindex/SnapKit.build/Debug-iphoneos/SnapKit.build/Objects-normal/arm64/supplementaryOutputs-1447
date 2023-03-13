@@ -1,0 +1,25 @@
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintAttributes.d"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConfig.d"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintConstantTarget.dia"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDSL.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDSL.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDSL.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/ConstraintDSL.dia"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Constraint.o"

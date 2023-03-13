@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c13707419cb4d45c60e8ff721fca27c19f650245c2e793aa21eed3c9791a4940"
+build_start_time: [1674072765, 775099992]
+build_end_time: [1674072777, 616852998]
+inputs:
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/BuiltIns.swift": [1673186423, 660149574]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/Defaults+Observing.swift": [1673186423, 660361766]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/Defaults+StringToBool.swift": [1673186423, 659724235]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/Defaults+Subscripts.swift": [1673186423, 660054683]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/Defaults.swift": [1673186423, 660795450]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/DefaultsAdapter.swift": [1673186423, 660272359]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/DefaultsBridges.swift": [1673186423, 659967660]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/DefaultsKey.swift": [1673186423, 659802436]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/DefaultsKeys.swift": [1673186423, 659879922]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/DefaultsObserver.swift": [1673186423, 660450935]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/DefaultsSerializable.swift": [1673186423, 660686016]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/OptionalType.swift": [1673186423, 660604953]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyUserDefaults/Sources/PropertyWrappers.swift": [1673186423, 660528421]

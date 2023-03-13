@@ -1,0 +1,35 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Impl/CollectionAccess.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/CollectionAccess.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/CollectionAccess.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/CollectionAccess.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/CollectionAccess.dia"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Aliases.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Aliases.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Aliases.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Aliases.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Aliases.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Impl/BasicTypes.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/BasicTypes.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/BasicTypes.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/BasicTypes.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/BasicTypes.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/App.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/App.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/App.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/App.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/App.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/AnyRealmValue.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/AnyRealmValue.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/AnyRealmValue.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/AnyRealmValue.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/AnyRealmValue.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/AsymmetricObject.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/AsymmetricObject.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/AsymmetricObject.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/AsymmetricObject.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/AsymmetricObject.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/BSON.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/BSON.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/BSON.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/BSON.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/BSON.swiftdeps"

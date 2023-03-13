@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f037661e30ec69453757e2e5a0dc5586def16fb5fdaa3226e7dda7a790557882"
+build_start_time: [1674072765, 904608011]
+build_end_time: [1674072803, 623494148]
+inputs:
+  "/Users/codergirltm/Desktop/Estrela/Pods/KeychainSwift/Sources/KeychainSwift.swift": [1673186422, 631972312]
+  "/Users/codergirltm/Desktop/Estrela/Pods/KeychainSwift/Sources/KeychainSwiftAccessOptions.swift": [1673186422, 632145404]
+  "/Users/codergirltm/Desktop/Estrela/Pods/KeychainSwift/Sources/TegKeychainConstants.swift": [1673186422, 632060050]

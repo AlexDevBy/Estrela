@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/BuildProductsPath/Release-iphoneos/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/NVActivityIndicatorView.build/unextended-module.modulemap",
+    }]
+  }]
+}

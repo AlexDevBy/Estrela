@@ -1,0 +1,44 @@
+Target dependency graph (16 targets)
+Alamofire in Pods, no dependencies
+ApphudSDK in Pods, no dependencies
+IronSourceSDK in Pods, no dependencies
+KeychainAccess in Pods, no dependencies
+KeychainSwift in Pods, no dependencies
+MBProgressHUD in Pods, no dependencies
+NVActivityIndicatorView in Pods, no dependencies
+Realm in Pods, no dependencies
+RealmSwift in Pods, depends on:
+Realm in Pods (explicit)
+SwiftyJSON in Pods, no dependencies
+SwiftyReceiptValidator in Pods, no dependencies
+SwiftyUserDefaults in Pods, no dependencies
+Pods-Estrela in Pods, depends on:
+Alamofire in Pods (explicit)
+ApphudSDK in Pods (explicit)
+IronSourceSDK in Pods (explicit)
+KeychainAccess in Pods (explicit)
+KeychainSwift in Pods (explicit)
+MBProgressHUD in Pods (explicit)
+NVActivityIndicatorView in Pods (explicit)
+Realm in Pods (explicit)
+RealmSwift in Pods (explicit)
+SwiftyJSON in Pods (explicit)
+SwiftyReceiptValidator in Pods (explicit)
+SwiftyUserDefaults in Pods (explicit)
+SnapKit in SnapKit, no dependencies
+SnapKit in SnapKit, depends on:
+SnapKit in SnapKit (explicit)
+Estrela in Estrela, depends on:
+Pods-Estrela in Pods (implicit dependency via file 'Pods_Estrela.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+ApphudSDK in Pods (implicit dependency via options '-framework ApphudSDK' in build setting 'OTHER_LDFLAGS')
+KeychainAccess in Pods (implicit dependency via options '-framework KeychainAccess' in build setting 'OTHER_LDFLAGS')
+KeychainSwift in Pods (implicit dependency via options '-framework KeychainSwift' in build setting 'OTHER_LDFLAGS')
+MBProgressHUD in Pods (implicit dependency via options '-framework MBProgressHUD' in build setting 'OTHER_LDFLAGS')
+NVActivityIndicatorView in Pods (implicit dependency via options '-framework NVActivityIndicatorView' in build setting 'OTHER_LDFLAGS')
+Realm in Pods (implicit dependency via options '-framework Realm' in build setting 'OTHER_LDFLAGS')
+RealmSwift in Pods (implicit dependency via options '-framework RealmSwift' in build setting 'OTHER_LDFLAGS')
+SwiftyJSON in Pods (implicit dependency via options '-framework SwiftyJSON' in build setting 'OTHER_LDFLAGS')
+SwiftyReceiptValidator in Pods (implicit dependency via options '-framework SwiftyReceiptValidator' in build setting 'OTHER_LDFLAGS')
+SwiftyUserDefaults in Pods (implicit dependency via options '-framework SwiftyUserDefaults' in build setting 'OTHER_LDFLAGS')
+SnapKit in SnapKit (explicit)

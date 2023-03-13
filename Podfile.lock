@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (5.6.4)
+  - ApphudSDK (2.8.8)
+  - KeychainAccess (4.2.2)
+  - KeychainSwift (19.0.0)
+  - MBProgressHUD (1.2.0)
+  - NVActivityIndicatorView (5.1.1):
+  - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - Realm (10.33.0):
+  - Realm/Headers (= 10.33.0)
+  - Realm/Headers (10.33.0)
+  - RealmSwift (10.33.0):
+  - Realm (= 10.33.0)
+  - SwiftyJSON (5.0.1)
+  - SwiftyReceiptValidator (6.5.0)
+  - SwiftyUserDefaults (5.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ApphudSDK
+  - KeychainAccess
+  - KeychainSwift (~> 19.0)
+  - MBProgressHUD
+  - NVActivityIndicatorView
+  - RealmSwift
+  - SwiftyJSON
+  - SwiftyReceiptValidator
+  - SwiftyUserDefaults
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ApphudSDK
+    - KeychainAccess
+    - KeychainSwift
+    - MBProgressHUD
+    - NVActivityIndicatorView
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - SwiftyReceiptValidator
+    - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  ApphudSDK: ef62166ff111404f1fa01a4cd4552d266b778565
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  Realm: d4f810e161fa2c2c589b9860b6eb09238deacd73
+  RealmSwift: cef9946f09f2333a8f2ac8bac4f8de52fb9f5ac3
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  SwiftyReceiptValidator: 977aa9c8d8f971d4d4199e723f39c52bcd870458
+  SwiftyUserDefaults: 63f80248cf5bfb3458825d9a78f2eb7e1293a040
+
+PODFILE CHECKSUM: 13e5306f64a2e3478d7a097f15d2bb27fce73120
+
+COCOAPODS: 1.11.3

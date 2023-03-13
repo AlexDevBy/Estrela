@@ -1,0 +1,20 @@
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.d"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraint.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraint.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraint.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/LayoutConstraint.dia"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Typealiases.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Typealiases.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Typealiases.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/Typealiases.swiftdeps"
+"/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/SnapKit.build/Debug-iphoneos/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.d"

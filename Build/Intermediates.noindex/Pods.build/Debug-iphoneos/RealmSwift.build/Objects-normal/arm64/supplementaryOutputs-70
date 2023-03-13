@@ -1,0 +1,30 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Realm.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Realm.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Realm.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Realm.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Realm.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/RealmConfiguration.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmConfiguration.dia"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Impl/RealmCollectionImpl.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollectionImpl.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollectionImpl.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollectionImpl.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollectionImpl.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/RealmKeyedCollection.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmKeyedCollection.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/RealmCollection.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollection.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollection.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollection.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/RealmCollection.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Query.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Query.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Query.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Query.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Query.dia"

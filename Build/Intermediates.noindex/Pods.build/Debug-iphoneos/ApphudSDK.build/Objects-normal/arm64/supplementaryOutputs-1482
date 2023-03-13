@@ -1,0 +1,20 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudLoggerService.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudLoggerService.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudLoggerService.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudLoggerService.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudLoggerService.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudUI/ApphudNavigationController.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudNavigationController.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudNavigationController.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudNavigationController.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudNavigationController.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudPaywall.swift":
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudPaywall.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudPaywall.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudPaywall.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudPaywall.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/ApphudSDK/ApphudSDK/ApphudNonRenewingPurchase.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudNonRenewingPurchase.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudNonRenewingPurchase.dia"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudNonRenewingPurchase.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/ApphudSDK.build/Objects-normal/arm64/ApphudNonRenewingPurchase.swiftdeps"

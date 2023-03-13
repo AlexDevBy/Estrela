@@ -1,0 +1,30 @@
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Sync.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Sync.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Sync.swiftdeps"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Sync.d"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Sync.dia"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/Util.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.o"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/Util.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/SortDescriptor.swift":
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.o"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.swiftdeps"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SortDescriptor.d"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/SwiftUI.swift":
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.dia"
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SwiftUI.o"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/SyncSubscription.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SyncSubscription.d"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SyncSubscription.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SyncSubscription.dia"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/SyncSubscription.swiftdeps"
+"/Users/codergirltm/Desktop/Estrela/Pods/RealmSwift/RealmSwift/ThreadSafeReference.swift":
+  dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.d"
+  swift-dependencies: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.swiftdeps"
+  object: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.o"
+  diagnostics: "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/RealmSwift.build/Objects-normal/arm64/ThreadSafeReference.dia"

@@ -1,0 +1,79 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b3e0164358d37cd4f718dc14d2ddc219604381efd07dcce88189bdcec96da77b"
+    }
+  ],
+  "containerPath" : "/Users/codergirltm/Desktop/Estrela/Estrela.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/codergirltm/Desktop/Estrela/Build/Products",
+      "derivedDataPath" : "/Users/codergirltm/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/codergirltm/Library/Developer/Xcode/DerivedData/Estrela-cdfbwazeclononfpgiqforzeqpfp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/BuildProductsPath/ProductIcon.png",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "yes.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "3d-realistic-cross-and-check-mark-button-icon-red-green-glossy-round-with-right-wrong-floating-on-transparent-symbol-choice-vote-ok-yes-no-concept-cartoon-icon-minimal- 3 (1).png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "3d-realistic-cross-and-check-mark-button-icon-red-green-glossy-round-with-right-wrong-floating-on-transparent-symbol-choice-vote-ok-yes-no-concept-cartoon-icon-minimal- 3 (2).png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

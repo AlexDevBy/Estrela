@@ -1,0 +1,30 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ac5621a884e8792fd4c8ce9547c179fe83d53dfeb7dce286967ce0250123d604"
+build_start_time: [1674072765, 775102138]
+build_end_time: [1674072781, 181017875]
+inputs:
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Internal/JSONDecoder+Receipt.swift": [1673346768, 238476514]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Internal/ReceiptClient.swift": [1673346768, 237880706]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Internal/ReceiptURLFetcher.swift": [1673346768, 237618923]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Internal/ResponseValidator.swift": [1673346768, 238096237]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Internal/URLSessionManager.swift": [1673346768, 238634586]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/AutoRenewStatus.swift": [1673346768, 239772319]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Configuration.swift": [1673346768, 243570327]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Error.swift": [1673346768, 241729736]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Mocks/PendingRenewalInfo+Mock.swift": [1673346768, 240118980]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Mocks/Receipt+Mock.swift": [1673346768, 240624427]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Mocks/ReceiptInApp+Mock.swift": [1673346768, 241076946]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Mocks/ReceiptResponse+Mock.swift": [1673346768, 240852355]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Mocks/SubscriptionValidationResponse+Mock.swift"
+  : [1673346768, 240357875]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/PendingRenewalInfo.swift": [1673346768, 241427421]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Receipt.swift": [1673346768, 242873430]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/ReceiptInApp.swift": [1673346768, 242088794]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Requests/PurchaseValidationRequest.swift": [1673346768, 243225574]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Requests/SubscriptionValidationRequest.swift"
+  : [1673346768, 243386268]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Responses/ReceiptResponse.swift": [1673346768, 242507457]
+  ? "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/Responses/SubscriptionValidationResponse.swift"
+  : [1673346768, 242718219]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Models/StatusCode.swift": [1673346768, 241238117]
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyReceiptValidator/Sources/Public/Validator/ReceiptValidator.swift": [1673346768, 239347934]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0d58974e36f262160939bf87d15dd6b56e24e8de36ef13d78d4a690940a2925e"
+build_start_time: [1674227999, 97103118]
+build_end_time: [1674228009, 722702026]
+inputs:
+  "/Users/codergirltm/Desktop/Estrela/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1673185353, 43330192]

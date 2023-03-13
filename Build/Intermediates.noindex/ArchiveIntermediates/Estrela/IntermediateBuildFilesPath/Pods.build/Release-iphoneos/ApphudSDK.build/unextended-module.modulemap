@@ -1,0 +1,10 @@
+framework module ApphudSDK {
+  umbrella header "ApphudSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module ApphudSDK.__Swift {
+  exclude header "ApphudSDK-Swift.h"
+}

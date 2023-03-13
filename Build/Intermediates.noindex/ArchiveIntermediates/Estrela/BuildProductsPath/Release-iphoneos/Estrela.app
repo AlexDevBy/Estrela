@@ -1,0 +1,1 @@
+/Users/codergirltm/Desktop/Estrela/Build/Intermediates.noindex/ArchiveIntermediates/Estrela/InstallationBuildProductsLocation/Applications/Estrela.app

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "052816af3748e6be469348894630ac9b1e1cbcc67069cd68a41a534f99df4be0"
+build_start_time: [1673349646, 33581972]
+build_end_time: [1673349646, 218446969]
+inputs:
+  "/Users/codergirltm/Desktop/Estrela/Pods/KeychainAccess/Lib/KeychainAccess/Keychain.swift": [1673186421, 496458053]
